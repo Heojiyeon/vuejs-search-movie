@@ -24,8 +24,8 @@
 
 <script>
 import { API_KEY } from '~/utils/url.js';
-import SearchBar from '~/components/Search-bar';
-import SearchResult from '~/components/Search-result';
+import SearchBar from '~/components/SearchBar';
+import SearchResult from '~/components/SearchResult';
 import Modal from '~/components/Modal';
 import Loading from '~/components/Loading';
 
